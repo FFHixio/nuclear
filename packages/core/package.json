@@ -27,8 +27,8 @@
     "isomorphic-fetch": "^2.2.1",
     "md5": "^2.2.1",
     "nodebrainz": "^2.1.1",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "redux": "^4.0.5",
     "simple-get-lyrics": "0.0.4",
     "youtube-playlist": "^1.0.2"
