@@ -17,7 +17,7 @@
     "i18n-sync": "ts-node scripts/sync"
   },
   "dependencies": {
-    "i18next": "^19.0.3"
+    "i18next": "^19.8.4"
   },
   "devDependencies": {
     "eslint": "^7.11.0",
